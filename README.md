@@ -38,3 +38,10 @@ Enter your guess: 37
 Congratulations! You guessed the correct number. You win!
 Thank you for playing the Number Guessing Game!
 
+## Screenshots
+
+![Screenshot 2024-06-05 190012](https://github.com/Srivarthaniselvam/Technohacks_Task_2/assets/151417502/39cfa415-bde8-420e-b1f9-71689c0e9b06)
+![Screenshot 2024-06-05 185954](https://github.com/Srivarthaniselvam/Technohacks_Task_2/assets/151417502/4e2d250e-4ff3-4f17-bd9c-f3c2b5d6529b)
+![Screenshot 2024-06-05 190040](https://github.com/Srivarthaniselvam/Technohacks_Task_2/assets/151417502/ed7b929f-f503-46e9-925b-e749ec9a2684)
+
+
